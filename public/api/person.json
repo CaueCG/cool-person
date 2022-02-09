@@ -1,0 +1,22 @@
+{
+  "person": [
+    {
+      "name": "Caue",
+      "age": "21",
+      "email": "caue@gmail.com",
+      "isCool": "legal"
+    },
+    {
+      "name": "Katy",
+      "age": "22",
+      "email": "katy@gmail.com",
+      "isCool": "legal"
+    },
+    {
+      "name": "Rubia",
+      "age": "1000",
+      "email": "rubia@gmail.com",
+      "isCool": "chata"
+    }
+  ]
+}
